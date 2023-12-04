@@ -1,0 +1,19 @@
+Comparing different Classification models to analyze the UCI Repository(Breast Cancer)
+
+The intention is to analyze the raw performance of each model, considering the breast cancer database, therefore I'll focus on hyperparameters.
+
+*For SVM only 'rbf' vs 'linear'
+
+--The results
+
+Accuracy:
+
+Decision Tree 95,9%
+SVM Kernel:RBF 95,32%  
+
+Logistic regression:  94,73%
+KNearest neighbors 94,73%
+Naive Bayes 94,15%
+SVM Kernel:LINEAR 94,15%  
+
+Random Forest 93,56%
